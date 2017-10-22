@@ -73,7 +73,7 @@
     "karma-qunit": "^1.2.1",
     "karma-spec-reporter": "0.0.31",
     "npm-run-all": "^1.2.0",
-    "qunitjs": "^2.0.1",
+    "qunitjs": "2.4.0",
     "uglify-js": "^2.5.0",
     "webpack": "^1.13.2"
   }
