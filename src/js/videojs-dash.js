@@ -15,6 +15,9 @@ let
  */
 class Html5DashJS {
   constructor(source, tech, options) {
+
+    console.log('j1');
+
     // Get options from tech if not provided for backwards compatibility
     options = options || tech.options_;
 
